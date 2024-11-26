@@ -21,7 +21,7 @@ conn.sendFile(m.chat, media.no_wm, '', `\`${mssg.title}: ${title}\``, m)
 throw e
 }
 }
-handler.help = ['tiktok','tt']
+handler.help = ['tiktok2','tk2']
 handler.tags = ['downloader']
 handler.command = /^(tk2|tiktok2|tkk)$/i
 export default handler
